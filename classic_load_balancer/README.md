@@ -14,5 +14,5 @@ account_id
 cert_name
 instance_health_check_path
 env
-owner
 classic_elb_type
+owner
