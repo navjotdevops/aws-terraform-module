@@ -1,7 +1,4 @@
-#---------------------------------------
-# This module creates AWS Classic ELB
-#---------------------------------------
-
+## This module creates AWS Classic ELB
 classic_elb_name
 classic_elb_idle_timeout
 security_groups
